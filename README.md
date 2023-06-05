@@ -2,7 +2,7 @@
 
 Demo repository for basic Leetcode integration with Github
 
-❗**This is a template repository and development is under progress**
+❗**This is a template repository and development is in progress**
  
 ## Usage 
 
